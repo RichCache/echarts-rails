@@ -10,6 +10,7 @@
 .DS_Store
 /spec/dummy/log/
 /spec/dummy/tmp/
+/.idea
 
 *.gem
 .ruby-version

@@ -10,6 +10,8 @@ Check out how to use ECharts at http://echarts.baidu.com
 * echarts-rails 0.1.6 -> ECharts 3.3.2
 * echarts-rails 0.1.7 -> ECharts 3.7.1
 * echarts-rails 0.1.8 -> ECharts 3.7.2
+* echarts-rails 0.2.5 -> ECharts 4.8.0
+
 
 ## Installation
 
